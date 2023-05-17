@@ -1,0 +1,172 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "flush",
+      "alterEgo": "Barry Alan",
+      "id": 4
+    },
+    {
+      "name": "shazam",
+      "alterEgo": "Billy",
+      "id": 5
+    },
+    {
+      "name": "shazam",
+      "alterEgo": "Billy",
+      "id": 6
+    },
+    {
+      "name": "shazam",
+      "alterEgo": "Billy",
+      "id": 7
+    },
+    {
+      "name": "shazam",
+      "alterEgo": "Billy",
+      "id": 8
+    },
+    {
+      "name": "",
+      "alterEgo": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "alterEgo": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "alterEgo": "",
+      "id": 11
+    },
+    {
+      "name": "Cat",
+      "alterEgo": "woman",
+      "id": 12
+    },
+    {
+      "name": "Cat2",
+      "alterEgo": "woman2",
+      "id": 13
+    },
+    {
+      "name": "aqua2",
+      "alterEgo": "au",
+      "id": 14
+    },
+    {
+      "name": "aqua23",
+      "alterEgo": "au",
+      "id": 15
+    },
+    {
+      "name": "qw",
+      "alterEgo": "qw",
+      "id": 16
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Joey Tribbiani"
+    },
+    {
+      "id": 3,
+      "name": "Rachel Green"
+    }
+  ],
+  "users": [
+    {
+      "id": "zet@mail.ru",
+      "channelId": "miangel"
+    }
+  ],
+  "channels": [
+    {
+      "id": "miangel",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "green"
+    },
+    {
+      "id": 3,
+      "label": "yellow"
+    },
+    {
+      "id": 4,
+      "label": "blue"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "brown"
+    },
+    {
+      "id": 7,
+      "label": "grey"
+    },
+    {
+      "id": 8,
+      "label": "pink"
+    },
+    {
+      "id": 9,
+      "label": "darkblue"
+    },
+    {
+      "id": 10,
+      "label": "orange"
+    },
+    {
+      "id": 11,
+      "label": "salad"
+    },
+    {
+      "id": 12,
+      "label": "white"
+    },
+    {
+      "id": 13,
+      "label": "purple"
+    },
+    {
+      "id": 14,
+      "label": "violent"
+    }
+  ]
+}
